@@ -2,6 +2,7 @@
 Video Link -> https://drive.google.com/file/d/1gfGMAQnmqCIpt0f8XeJAF6C9PYo9ChTw/view?usp=sharing
 > **Automate the purchase. Escalate the decision. Verify the outcome.**
 
+Workflows regarding office purchases are very painful, Procura solves this problem through multi app agentic system which has a solution for every failure probability in a real system. (Check out the Evaluation Folder for the tests)
 Procura is a reliable AI procurement decision and execution agent built for the **Lemma Multi-App AI Agent Hackathon**.
 
 Instead of allowing an LLM to directly decide and execute purchases, Procura separates **reasoning from authorization and verification**:
