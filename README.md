@@ -14,6 +14,9 @@ Instead of allowing an LLM to directly decide and execute purchases, Procura sep
 - An independent verification step checks the actual resulting application state.
 - If execution fails, Procura can re-plan around the failed vendor.
 
+  <img width="1890" height="832" alt="image" src="https://github.com/user-attachments/assets/d337886a-85bb-4696-bcd4-4a738fc0b50f" />
+
+
 The core principle is:
 
 > **The LLM proposes. Deterministic systems authorize. Independent verification proves the outcome.**
