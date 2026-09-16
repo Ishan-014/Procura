@@ -1,5 +1,5 @@
 # Procura
-Video Link -> https://docs.google.com/videos/d/1WKsMke7NI9wU69lARf4dhXXwWwzJBNDLW_85Z_xZ36M/play?usp=sharing
+
 > **Automate the purchase. Escalate the decision. Verify the outcome.**
 
 Workflows regarding office purchases are very painful, Procura solves this problem through multi app agentic system which has a solution for every failure probability in a real system. (Check out the Evaluation Folder for the tests)
